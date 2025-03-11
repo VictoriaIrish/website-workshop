@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "website-workshop"
+  title: "A temporary website"
   navbar:
     left:
       - href: index.qmd
